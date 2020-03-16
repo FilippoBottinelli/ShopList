@@ -1,2 +1,1 @@
-# ShopList
-Bottinelli Carta Acosta Pizzi
+ShopList
